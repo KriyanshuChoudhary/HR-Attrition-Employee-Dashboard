@@ -14,12 +14,11 @@ It was built using **Power BI**, with data cleaning to ensure data accuracy and 
 - Maintain **data accuracy** by removing duplicates and verifying consistency.
 
 ## Tools Used
-**Power BI** - Dashboard design & data visualization.
-**Python (Pandas, NumPy)** - Duplicate removal and data accuracy checks.
+- **Power BI** - Dashboard design & data visualization.
+- **Python (Pandas, NumPy)** - Duplicate removal and data accuracy checks.
 
 ## Key Performance Indicators (KPIs)  
-
-- Overall **Attrition Rate**  
+ 
 - **Average Age** of Employees
 - **Average Salary**
 - **Attrition Rate%**
